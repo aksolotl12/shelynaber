@@ -1,1 +1,67 @@
-@import url('https://fonts.googleapis.com/css2?family=Lemon&display=swap')
+@import url('https://fonts.googleapis.com/css2?family=Single+Day&display=swap');
+
+body{
+    background-color: gray;
+    color: aquamarine;
+    font-family: 'Single Day', cursive;
+    
+}
+
+footer{
+    background-color: black;
+}
+
+.k1{
+
+    border: none;
+
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+}
+.k2{
+
+    border: none;
+
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+}
+
+.k3{
+
+    border: none;
+
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+}
+
+h1{
+    display: flex;
+    justify-content: center;
+
+}
+
+.v{
+    display: flex;
+    justify-content: center;
+
+}
+
+img{
+    margin: 10px auto 20px;
+    display: block;
+}
+.p1{
+    color: rgb(105, 8, 161);
+}
